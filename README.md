@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I began programming with Atari BASIC in a time when there was no internet.
+
+Currently I'm working in Rust, Ruby and Python, with MLOps and LegalOps as my main focus.
+
+Currently developing [xvc](https://github.com/iesahin/xvc) and its Python bindings [xvc-py](https://github.com/iesahin/xvc-py).
+
 <!--
 **iesahin/iesahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
