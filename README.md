@@ -2,9 +2,15 @@
 
 I began programming with Atari BASIC in a time when there was no internet.
 
-Currently I'm working in Rust, Ruby and Python, with MLOps and LegalOps as my main focus.
+Currently I'm working in Rust, Ruby and Python, with MLOps and LegalOps as my
+main focus.
 
-Currently developing [xvc](https://github.com/iesahin/xvc) and its Python bindings [xvc-py](https://github.com/iesahin/xvc-py).
+Currently developing [xvc](https://github.com/iesahin/xvc) and its Python
+bindings [xvc-py](https://github.com/iesahin/xvc-py).
+
+If you have interesting projects to work on related to MLOps, ML, Computer
+Vision and any kind of backend development, let me know by writing a mail to
+`contact` of `emresahin.net`
 
 <!--
 **iesahin/iesahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
