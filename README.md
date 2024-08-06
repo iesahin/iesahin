@@ -28,7 +28,14 @@ non-technical posts (mostly in Turkish) in [nedriyat](https://nedriy.at).
 You can get in touch with me via email (`contact` of `emresahin.net`) or
 Telegram [`emre_sahin`](https://t.me/emre_sahin).
 
+<h3 align="center">Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iesahin&show_icons=true&theme=synthwave" alt="Emre Sahin :: Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iesahin&langs_count=20&theme=tokyonight&layout=compact" alt="Emre Sahin :: Top Langs" />
+</p>
+
 <!--
+
 **iesahin/iesahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
