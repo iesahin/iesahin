@@ -5,10 +5,10 @@ Computer Vision.
 
 These days I'm working in Rust, Ruby and Python, applying LLMs to help lawyers
 for their contracts and legal documents. I'm also developing an open source
-project called [Xvc], its [docs](https://docs.xvc.dev) and its Python
+project named [Xvc], its [docs](https://docs.xvc.dev) and its Python
 [bindings] to manage large data and deep pipelines for Machine Learning
 projects. Install it with `cargo install xvc` for CLI and `pip install xvc` for
-Python. You can star its [repo](https://github.com/iesahin/xvc) or visit its
+Python. Please star its [repo](https://github.com/iesahin/xvc) or visit its
 [site](https://xvc.dev) time to time for updates.
 
 I worked with various technologies and languages in the past. I developed [real
@@ -27,12 +27,6 @@ non-technical posts (mostly in Turkish) in [nedriyat](https://nedriy.at).
 
 You can get in touch with me via email (`contact` of `emresahin.net`) or
 Telegram [`emre_sahin`](https://t.me/emre_sahin).
-
-<h3 align="center">Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iesahin&show_icons=true&theme=synthwave" alt="Emre Sahin :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iesahin&langs_count=20&theme=tokyonight&layout=compact" alt="Emre Sahin :: Top Langs" />
-</p>
 
 <!--
 
