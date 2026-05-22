@@ -3,30 +3,32 @@
 I'm Emre, a software engineer with a background in Machine Learning and
 Computer Vision.
 
-These days I'm working in Rust, Ruby and Python, applying LLMs to help lawyers
-for their contracts and legal documents. I'm also building an open source
-project [Xvc], writing its [docs](https://docs.xvc.dev) and its Python
-[bindings] to manage large data and deep pipelines for Machine Learning
-projects. Install it with `cargo install xvc` for CLI and `pip install xvc` for
-Python. Please star its [repo](https://github.com/iesahin/xvc) or visit its
-[site](https://xvc.dev) time to time for updates.
+I'm having fun (and earning some money) with computers for more than a quarter
+century now. My first really useful project was in Delphi 1.0, around 1996.
+Before that I had some experience with Basic and C.
 
-I worked with various technologies and languages in the past. I developed [real
-time face recognition software](https://github.com/iesahin/facebin) with Torch
-and Redis, built web servers in Go, wrote Video OCR for Arabic in Tensorflow,
-etc. The earliest project I wrote for daily use was a customized editor for
-Notary offices in Delphi in late 1990s. The earliest language I used was Atari
-BASIC in early 1990s. I taught C to myself in one pleasing week when I was in
-high school, graduated from my department with the highest GPA, dropped out of
-Ph.D twice. I write my technical posts in
-[emresahin.net](https://emresahin.net) and non-technical posts (mostly in
-Turkish) in [nedriyat](https://nedriy.at).
+These days I'm working in Rust and Python. My last project was to find
+ships with Distributed Acoustic Sensor data. I built end-to-end training and
+deployment pipelines for large amount of data.
+
+Before that I worked in LLM pyschology and persuasion to help lawyers in their
+contracts and legal documents. Earlier, I wrote techical documents for DVC,
+created end-to-end systems for face recognition, OCR for Ottoman Turkish and
+video OCR for Arabic.
+
+Between my employments, I'm building an open source project [Xvc], writing its
+[docs](https://docs.xvc.dev) and its Python [bindings] to manage large data and
+deep pipelines for Machine Learning projects. Install it with `cargo install
+xvc` for CLI and `pip install xvc` for Python. These days I'm also building an
+_inboxbot_ as my agentic manager. Finally I'll have a perfect manager.
 
 [xvc]: https://xvc.dev
 [bindings]: https://github.com/iesahin/xvc.py
 
-You can get in touch with me via email (`contact` of `emresahin.net`) or
-Telegram [`emre_sahin`](https://t.me/emre_sahin).
+
+I live in Istanbul and Mudanya. You can get in touch with
+me via email (`contact` of `emresahin.net`) or Telegram
+[`emre_sahin`](https://t.me/emre_sahin).
 
 <!--
 
