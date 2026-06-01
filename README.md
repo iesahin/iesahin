@@ -22,6 +22,27 @@ deep pipelines for Machine Learning projects. Install it with `cargo install
 xvc` for CLI and `pip install xvc` for Python. These days I'm also building an
 _inboxbot_ as my agentic manager. Finally I'll have a perfect manager.
 
+## Some technical principles I learned in the last 30 years
+
+- Data is more important than the code: The goal of software is transforming
+data from one format to the other.
+
+- Functional programming leads to better maintanence: The more context you wrap
+around a piece of code to function, the more bugs you have. Classical OOP is not
+a good idea because of this.
+
+- Incremental development over rearchitecting whole code bases: There is almost
+no reason to rewrite a piece of software from ground up.
+
+- Code is a liability, not an asset: The less lines are used to solve a problem,
+the better.
+
+- Slow is a code smell: If the code is prohibitevly slow to run and develop,
+there is something waiting to be understood about it.
+
+
+
+
 [xvc]: https://xvc.dev
 [bindings]: https://github.com/iesahin/xvc.py
 
