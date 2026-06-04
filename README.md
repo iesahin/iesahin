@@ -27,6 +27,9 @@ _inboxbot_ as my agentic manager. Finally I'll have a perfect manager.
 - Data is more important than the code: The goal of software is transforming
 data from one format to the other.
 
+- Data is more important than hyperparameters: Having good quality data has more positive 
+affect in ML model performance than model parameters. 
+
 - Functional programming leads to better maintanence: The more context you wrap
 around a piece of code to function, the more bugs you have. Classical OOP is not
 a good idea because of this.
@@ -40,6 +43,7 @@ the better.
 - Slow is a code smell: If the code is prohibitevly slow to run and develop,
 there is something waiting to be understood about it.
 
+- Split instead of rewrite: There is a reason for a software project to go astray. Trying to evolve by splitting functionality leads to understanding those reasons instead of blind rewrites. 
 
 
 
