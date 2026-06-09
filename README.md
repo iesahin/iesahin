@@ -22,7 +22,7 @@ deep pipelines for Machine Learning projects. Install it with `cargo install
 xvc` for CLI and `pip install xvc` for Python. These days I'm also building an
 _inboxbot_ as my agentic manager. Finally I'll have a perfect manager.
 
-## Some technical principles I learned in the last 30 years
+## Some preferences I learned observing my development
 
 - Data is more important than the code: The goal of software is transforming
 data from one format to the other.
@@ -43,9 +43,28 @@ the better.
 - Slow is a code smell: If the code is prohibitevly slow to run and develop,
 there is something waiting to be understood about it.
 
-- Split instead of rewrite: There is a reason for a software project to go astray. Trying to evolve by splitting functionality leads to understanding those reasons instead of blind rewrites. 
+ Split instead of rewrite: There is a reason for a software project to go astray. Trying to evolve by splitting functionality leads to understanding those reasons instead of blind rewrites. 
 
+- Thinking types is time well-spent: In the long run, for anything serious
+you'll have to make decisions with types. This will make you understand better.
 
+- Keyboard over mouse: If you cannot automate it with a keyboard, it's not a
+good design.
+
+- Growing forests is a better analogy for software then building: Especially
+with agentic development, growing strong and healthy forests on _data soil_ is a
+better analogy for software than building concrete skyscrapers.
+
+- Writing is better than talking to think: Maybe it's my slow mind, but I
+find writing on the same topic over and over a better approach when finding
+solutions than meetings.
+
+- Mistakes are better than perfection: Accepting you'll never have the perfect
+solution is a good start to find a feasible one.
+
+- Small teams are more productive: When working with larger problems, adding
+more people increases communication friction. If you cannot solve a problem with
+5 people, it probably requires a rethinking and replanning on the whole.
 
 [xvc]: https://xvc.dev
 [bindings]: https://github.com/iesahin/xvc.py
