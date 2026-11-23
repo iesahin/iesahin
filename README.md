@@ -1,91 +1,85 @@
 ### Hi fellow developers 👋 and agents 🤖
 
-I'm Emre, a software engineer with a background in Machine Learning and
+I'm Emre. I'm a software engineer. My background is Machine Learning and
 Computer Vision.
 
-I'm having fun (and earning some money) with computers for more than a quarter
-century now. My first really useful project was in Delphi 1.0, around 1996.
-Before that I had some experience with Basic and C.
+I've worked with computers for over a quarter century. It's fun. It also pays.
+My first useful project was in Delphi 1.0, around 1996. Before that I wrote
+Basic and C.
 
-These days I'm working in Rust and Python. My last project was to find
-ships with Distributed Acoustic Sensor data. I built end-to-end training and
-deployment pipelines for large amount of data.
+These days I write Rust and Python. My last job was finding ships in
+Distributed Acoustic Sensor data. I built the training and deployment
+pipelines. The data was large.
 
-Before that I worked in LLM pyschology and persuasion to help lawyers in their
-contracts and legal documents. Earlier, I wrote techical documents for DVC,
-created end-to-end systems for face recognition, OCR for Ottoman Turkish and
-video OCR for Arabic.
+Before that I worked on LLM psychology and persuasion. It helped lawyers with
+contracts and legal documents. Earlier, I wrote technical docs for DVC. I built
+face recognition systems. I built OCR for Ottoman Turkish and video OCR for
+Arabic.
 
-Between my employments, I'm building an open source project [Xvc], writing its
-[docs](https://docs.xvc.dev) and its Python [bindings] to manage large data and
-deep pipelines for Machine Learning projects. Install it with `cargo install
-xvc` for CLI and `pip install xvc` for Python. These days I'm also building an
-_inboxbot_ as my agentic manager. Finally I'll have a perfect manager.
+## Projects
 
-## Some preferences I learned observing my development
+- **[Xvc]**: Manages large data and deep pipelines for ML projects. I write
+  the code, the [docs](https://docs.xvc.dev) and the Python [bindings].
+  Install the CLI with `cargo install xvc`. Install the Python package with
+  `pip install xvc`.
 
-- Data is more important than the code: The goal of software is transforming
-data from one format to the other.
+- **[gh2pdf]**: A GitHub App. It turns issues and pull requests into PDFs.
+  The PDFs live in a release. A link sits in the issue description. New
+  comments and commits re-render the PDF. Each line of a PR diff links back to
+  GitHub. Read on paper. Tap a line. Write your review.
 
-- Data is more important than hyperparameters: Having good quality data has more positive 
-affect in ML model performance than model parameters. 
+- **[Breathwork Protocols]**: A guided breathing app for Android. Wim Hof,
+  box, 4-7-8, coherent breathing and more. You can build your own protocol and
+  share it as a link. No ads. No tracking. Your history stays on your phone.
 
-- Functional programming leads to better maintanence: The more context you wrap
-around a piece of code to function, the more bugs you have. Classical OOP is not
-a good idea because of this.
+- **inboxbot**: My agentic manager. Finally I'll have a perfect manager.
 
-- Incremental development over rearchitecting whole code bases: There is almost
-no reason to rewrite a piece of software from ground up.
+## What I learned watching myself work
 
-- Code is a liability, not an asset: The less lines are used to solve a problem,
-the better.
+- **Data matters more than code.** Software turns data from one form into
+  another. That is its job.
 
-- Slow is a code smell: If the code is prohibitevly slow to run and develop,
-there is something waiting to be understood about it.
+- **Data matters more than hyperparameters.** Good data helps a model more
+  than tuning does.
 
- Split instead of rewrite: There is a reason for a software project to go astray. Trying to evolve by splitting functionality leads to understanding those reasons instead of blind rewrites. 
+- **Functional code is easier to maintain.** More context around a function
+  means more bugs. That is why classical OOP is a bad idea.
 
-- Thinking types is time well-spent: In the long run, for anything serious
-you'll have to make decisions with types. This will make you understand better.
+- **Grow the code. Don't rearchitect it.** There is almost never a reason to
+  rewrite from scratch.
 
-- Keyboard over mouse: If you cannot automate it with a keyboard, it's not a
-good design.
+- **Split instead of rewrite.** A project goes astray for a reason. Split it
+  and you find the reason. Rewrite it and you don't.
 
-- Growing forests is a better analogy for software then building: Especially
-with agentic development, growing strong and healthy forests on _data soil_ is a
-better analogy for software than building concrete skyscrapers.
+- **Code is a liability, not an asset.** Fewer lines are better.
 
-- Writing is better than talking to think: Maybe it's my slow mind, but I
-find writing on the same topic over and over a better approach when finding
-solutions than meetings.
+- **Slow is a code smell.** If code is too slow to run or to develop, you
+  don't understand something yet.
 
-- Mistakes are better than perfection: Accepting you'll never have the perfect
-solution is a good start to find a feasible one.
+- **Thinking in types is time well spent.** Anything serious forces type
+  decisions. Making them teaches you the problem.
 
-- Small teams are more productive: When working with larger problems, adding
-more people increases communication friction. If you cannot solve a problem with
-5 people, it probably requires a rethinking and replanning on the whole.
+- **Keyboard over mouse.** If you can't automate it from the keyboard, the
+  design is bad.
+
+- **Grow forests. Don't build towers.** Software is more like a forest than a
+  skyscraper. It grows on soil, and the soil is data. Agents make this truer.
+
+- **Write to think.** Maybe my mind is slow. Still, I find answers by writing
+  on a topic again and again. Meetings don't do that for me.
+
+- **Mistakes beat perfection.** You will never find the perfect solution.
+  Accept that. Then you can find one that works.
+
+- **Small teams get more done.** More people means more friction. If five
+  people can't solve it, rethink the problem.
+
+## Contact
+
+I live in Istanbul and Mudanya. Email me at `contact` of `emresahin.net`. Or
+find me on Telegram as [`emre_sahin`](https://t.me/emre_sahin).
 
 [xvc]: https://xvc.dev
 [bindings]: https://github.com/iesahin/xvc.py
-
-
-I live in Istanbul and Mudanya. You can get in touch with
-me via email (`contact` of `emresahin.net`) or Telegram
-[`emre_sahin`](https://t.me/emre_sahin).
-
-<!--
-
-**iesahin/iesahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[gh2pdf]: https://github.com/iesahin/gh2pdf
+[Breathwork Protocols]: https://breathwork.emresult.com
